@@ -1,1 +1,1 @@
-# doonething-terms
+# Terms of use
