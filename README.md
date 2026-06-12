@@ -194,7 +194,7 @@ Sections that by their nature should survive termination will remain in effect, 
 
 Your use of the App is also governed by our Privacy Policy, available at:
 
-[PRIVACY POLICY URL]
+https://clelantoson.github.io/doonething-privacy/
 
 ## 22. Changes to These Terms
 
