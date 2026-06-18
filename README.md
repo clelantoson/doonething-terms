@@ -1,14 +1,8 @@
 # Terms of Use
 
-**Last updated:** 12/06/2026
+**Last updated:** June 18, 2026
 
-These Terms of Use ("Terms") govern your access to and use of **Do One Thing** ("the App").
-
-Do One Thing is operated by **Camille Le Lan-Toson**, located in France.
-
-Contact:
-
-**clelantoson.pro@gmail.com**
+These Terms of Use ("Terms") govern your access to and use of **CapyDo** ("the App").
 
 By downloading, installing, accessing, or using the App, you agree to these Terms.
 
@@ -16,7 +10,7 @@ If you do not agree to these Terms, you must not use the App.
 
 ## 1. The App
 
-Do One Thing is an iOS productivity app designed to help you focus on one task at a time.
+CapyDo is an iOS productivity app designed to help you focus on one task at a time.
 
 The App may provide features such as:
 
@@ -26,11 +20,11 @@ The App may provide features such as:
 - customization options;
 - premium features available through an auto-renewable subscription.
 
-## 2. Eligibility
+## 2. Age
 
-You must be at least 15 years old to use the App.
+CapyDo is not intended for children under the age of 15.
 
-If you are using the App on behalf of another person or entity, you confirm that you have the authority to accept these Terms on their behalf.
+If you are under the legal age required to accept these Terms in your country, you should only use the App with the consent of a parent or legal guardian.
 
 ## 3. License
 
@@ -83,7 +77,7 @@ Notifications depend on your device settings, iOS settings, permissions, Focus m
 
 We are not responsible for missed, delayed, or undelivered notifications.
 
-Do One Thing should not be used for critical, emergency, medical, legal, financial, safety-related, or time-sensitive tasks where failure to receive a reminder could cause harm or loss.
+CapyDo should not be used for critical, emergency, medical, legal, financial, safety-related, or time-sensitive tasks where failure to receive a reminder could cause harm or loss.
 
 ## 8. Widget Background Images
 
@@ -95,7 +89,7 @@ The selected image is processed locally on your device and stored locally so the
 
 ## 9. Subscriptions
 
-The App may offer an auto-renewable subscription called **Do One Thing Pro**.
+The App may offer an auto-renewable subscription called **CapyDo Pro**.
 
 Subscription prices, durations, included features, and any trial periods are displayed in the App and in the App Store before purchase.
 
@@ -103,7 +97,7 @@ By purchasing a subscription, you agree to the price, billing period, renewal te
 
 ## 10. Auto-Renewal
 
-Do One Thing Pro subscriptions automatically renew unless canceled at least 24 hours before the end of the current subscription period.
+CapyDo Pro subscriptions automatically renew unless canceled at least 24 hours before the end of the current subscription period.
 
 Your Apple account will be charged for renewal within 24 hours before the end of the current subscription period, unless auto-renewal is turned off.
 
@@ -194,7 +188,7 @@ Sections that by their nature should survive termination will remain in effect, 
 
 Your use of the App is also governed by our Privacy Policy, available at:
 
-https://clelantoson.github.io/doonething-privacy/
+[PRIVACY POLICY URL]
 
 ## 22. Changes to These Terms
 
@@ -224,7 +218,18 @@ Any dispute arising from or relating to these Terms or the App will be submitted
 
 For any question about these Terms, contact:
 
-**Do One Thing**  
-Operated by Camille Le Lan-Toson  
-France  
 **clelantoson.pro@gmail.com**
+
+## 26. Legal Notice
+
+CapyDo is published by Camille Le Lan-Toson, a sole proprietor established in France.
+
+SIRET: 84292589300021
+Email: clelantoson.pro@gmail.com  
+
+Website hosting is provided by GitHub Pages.
+
+GitHub, Inc.  
+88 Colin P. Kelly Jr. Street  
+San Francisco, CA 94107  
+United States
