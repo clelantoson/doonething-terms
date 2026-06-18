@@ -194,7 +194,7 @@ https://clelantoson.github.io/doonething-privacy/
 
 We may update these Terms from time to time.
 
-https://clelantoson.github.io/doonething-privacy/
+When we do, we will update the "Last updated" date at the top of this document.
 
 Your continued use of the App after the updated Terms become effective means that you accept the updated Terms.
 
