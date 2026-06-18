@@ -194,7 +194,7 @@ Your use of the App is also governed by our Privacy Policy, available at:
 
 We may update these Terms from time to time.
 
-When we do, we will update the "Last updated" date at the top of this document.
+https://clelantoson.github.io/doonething-privacy/
 
 Your continued use of the App after the updated Terms become effective means that you accept the updated Terms.
 
